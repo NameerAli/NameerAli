@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others
-- 🥅 2022 Goals: Learn more about BI
+- 🥅 2022 Goals: Learn more about AI & ML
 - ⚡ Fun fact: I love to code and play esports
 - 😻 Check out the my VSCO collection: [VSCO/nameer.ali](https://vsco.co/nameerali/gallery)
 
