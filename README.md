@@ -5,6 +5,7 @@
 - 🥅 2023 Goals: Learn more about AI & ML
 - ⚡ Fun fact: I love to code and play esports
 - 😻 Check out my VSCO collection: [VSCO/nameer.ali](https://vsco.co/nameerali/gallery)
+- ⚡ Check out my resume here: [Resume/Syed Nameer Ali](https://github.com/NameerAli/Resume/blob/main/Syed%20Nameer%20Ali_Resume%20.pdf)
 
 ### Connect with me:
 
