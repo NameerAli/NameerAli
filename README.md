@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **with others**
 
-- 👨‍💻 All of my projects are available at [github.com/NameerAli?tab=repositories](github.com/NameerAli?tab=repositories)
+- 👨‍💻 All of my projects are available at [NameerAli/Repositories](github.com/NameerAli?tab=repositories)
 
-- Check out my VSCO collection [vsco.co/nameerali/](vsco.co/nameerali/)
+- Check out my VSCO collection [VSCO/nameer.ali](vsco.co/nameerali/)
 
 - 📫 How to reach me **s.nameer18606@gmail.com**
 
-- 📄 Know about my experiences [github.com/NameerAli/Resume/blob/main/Syed%20Nameer%20Ali_Resume%20.pdf](github.com/NameerAli/Resume/blob/main/Syed%20Nameer%20Ali_Resume%20.pdf)
+- 📄 Know about my experiences [Resume/Syed Nameer Ali](github.com/NameerAli/Resume/blob/main/Syed%20Nameer%20Ali_Resume%20.pdf)
 
 - ⚡ Fun fact **I love to code and play esports**
 
