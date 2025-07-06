@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **s.nameer18606@gmail.com**
 
-- 📄 Know about my experiences [Resume/Syed Nameer Ali](https://github.com/NameerAli/Resume/blob/main/Syed%20Nameer%20Ali_Resume.pdf)
+- 📄 Know about my experiences [Resume/Syed Nameer Ali](https://github.com/NameerAli/Resume/blob/main/Syed%20Nameer%20Ali%20-%20Resume.pdf)
 
 - ⚡ Fun fact **I love to code and play esports**
 
