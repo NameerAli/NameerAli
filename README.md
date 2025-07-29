@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syed Nameer Ali</h1>
+<h1 align="center">Hi 👋, I'm Nameer </h1>
 <h3 align="center">A passionate developer and AI enthusiast from Pakistan 🇵🇰</h3>
 
 <p align="center">
