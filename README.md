@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nameer </h1>
-<h3 align="center">A passionate developer and AI enthusiast from Pakistan 🇵🇰</h3>
+<h1 align="center">Hey there 👋, I'm Nameer</h1>
+<h3 align="center">👨‍💻 Software Engineer | 🤖 AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nameerali&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -7,63 +7,101 @@
 
 ---
 
-- 🔭 Currently working on an LLM-based tool using [LangChain](https://github.com/NameerAli/ChatwithPDFs-LangChain)
-- 🤝 Open to collaboration on exciting open-source and AI projects
-- 👨‍💻 Check out all my projects at [github.com/NameerAli](https://github.com/NameerAli?tab=repositories)
-- 🎨 View my creative side on [VSCO](https://vsco.co/nameerali/)
-- 📫 Reach me at **s.nameer18606@gmail.com**
-- 📄 [View My Resume](https://github.com/NameerAli/Resume/blob/main/Syed%20Nameer%20Ali%20-%20Resume.pdf)
-- ⚡ Fun Fact: I’m equally passionate about software engineering and competitive esports!  
-  <a href="https://www.faceit.com/en/players/nNawTy" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/faceit-1.svg" alt="FACEIT" width="100" />
-  </a>
+### 🚀 About Me
 
-
+- 🔭 Currently building with Agents using [LangGraph](https://github.com/NameerAli/ChatwithPDFs-LangChain)
+- 🤝 Open to collaborating on innovative open-source or AI-driven products
+- 📁 All my projects live at [My GitHub Repositories](https://github.com/NameerAli?tab=repositories)
+- 🎨 I share visuals and moods on [VSCO](https://vsco.co/nameerali/)
+- 📫 Reach me at: **s.nameer18606@gmail.com**
+- 🧾 [Check out my Resume](https://github.com/NameerAli/Resume/blob/main/Syed%20Nameer%20Ali%20-%20Resume.pdf)
 
 ---
 
-<h3 align="left">🌐 Connect with me</h3>
+### 🎮 Esports & FACEIT CS2
+
+⚡ I'm not just about code — I frag too!  
+Catch me on FACEIT as `nNawTy` where precision meets strategy:  
+<a href="https://www.faceit.com/en/players/nNawTy" target="_blank">
+<img src="https://pbs.twimg.com/profile_images/1490744361784692737/Gt1H_KTI_400x400.jpg" width="40" />
+</a>
+
+---
+
+### 🌐 Let's Connect & Compete
+
 <p align="left">
   <a href="https://linkedin.com/in/syednameerali" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://leetcode.com/u/nameerali/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40" />
   </a>
   <a href="https://kaggle.com/syednameerali" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="40" />
   </a>
   <a href="https://www.hackerrank.com/s_nameer18606" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+### 🧠 Tech Stack & Tools
+
+#### 💻 Languages
 <p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
-  <a href="https://postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>
-  <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="MATLAB"/></a>
+  <img src="https://skillicons.dev/icons?i=python" height="40" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" />
+</p>
+
+#### ⚙️ Frameworks & Libraries
+<p align="left">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" />
+  <img src="https://skillicons.dev/icons?i=scikitlearn" height="40" />
+  <img src="https://skillicons.dev/icons?i=pandas" height="40" />
+</p>
+
+#### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Anaconda-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LaTeX-Dark.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" />
+</p>
+
+#### 🖥️ IDEs
+<p align="left">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyCharm-Dark.svg" height="40" />
+</p>
+
+#### 🚀 Deployment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" />
+  <img src="https://skillicons.dev/icons?i=railway" height="40" />
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nameerali&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nameerali&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nameerali&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nameerali&theme=tokyonight" />
 </p>
