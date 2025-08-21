@@ -31,7 +31,7 @@ Catch me on FACEIT as `nNawTy` where precision meets strategy:
 ### 🌐 Let's Connect & Compete
 
 <p align="left">
-  <a href="https://linkedin.com/in/syednameerali" target="_blank">
+  <a href="[https://linkedin.com/in/syednameerali](https://www.linkedin.com/in/syednameerali/)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="https://leetcode.com/u/nameerali/" target="_blank">
